@@ -27,7 +27,7 @@ Dataset used: `cleaned_ai_human.csv`
 
 ## 📦 Installation
 1. **Clone the repository**
- git clone https://github.com/your-username/ai-human-detector.git
+[ git clone https://github.com/your-username/ai-human-detector.git](https://github.com/DuryabAnwar/AI-vs.-Human-text-detector/tree/main)
 cd ai-human-detector
 
 2. **Install required dependencies**
