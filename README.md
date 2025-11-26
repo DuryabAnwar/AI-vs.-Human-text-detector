@@ -43,9 +43,6 @@ To train the model from scratch:
 
 python src/train.py
 
-arduino
-Copy code
-
 This will:
 
 ✔ Clean and process the text  
@@ -55,19 +52,11 @@ This will:
 models/ai_detector_model.pkl
 models/tfidf_vectorizer.pkl
 
-yaml
-Copy code
-
----
-
 ## 🌐 Running the Gradio App
 
 Start the web interface:
 
 python src/app.py
-
-yaml
-Copy code
 
 This launches a local server where you can paste text and see:
 
@@ -76,16 +65,11 @@ This launches a local server where you can paste text and see:
 - Final predicted label  
 - Confidence score  
 
----
-
 ## 🔍 Notebook Version (Full EDA)
 
 Explore the project end-to-end:
 
-notebooks/ai_detector.ipynb
-
-yaml
-Copy code
+[notebooks/ai_detector.ipynb](https://colab.research.google.com/drive/1Wq1OuJ6tZSgwtBcYTk6F6sBdG88uIT9-?usp=sharing)
 
 It includes:
 
@@ -95,8 +79,6 @@ It includes:
 - TF-IDF analysis  
 - Model training  
 - Feature importance  
-
----
 
 ## 📦 Requirements
 
@@ -109,11 +91,6 @@ joblib
 matplotlib
 seaborn
 gradio
-
-yaml
-Copy code
-
----
 
 ## 📜 License
 
