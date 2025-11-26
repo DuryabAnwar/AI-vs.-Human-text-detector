@@ -11,7 +11,7 @@ Dataset used: `cleaned_ai_human.csv`
 
 ---
 
-## 🚀 Features
+## Features
 - End-to-end training pipeline  
 - Text preprocessing & EDA  
 - Model evaluation (accuracy, confusion matrix)  
@@ -20,12 +20,12 @@ Dataset used: `cleaned_ai_human.csv`
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 (see tree in repo)
 
 ---
 
-## 📦 Installation
+## Installation
 1. **Clone the repository**
 [ git clone https://github.com/your-username/ai-human-detector.git](https://github.com/DuryabAnwar/AI-vs.-Human-text-detector/tree/main)
 cd ai-human-detector
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 3. (Optional) **Open the Colab/Jupyter notebook**
 [notebooks/ai_detector.ipynb](https://colab.research.google.com/drive/1Wq1OuJ6tZSgwtBcYTk6F6sBdG88uIT9-?usp=sharing)
 
-## 🧠 Training the Model
+## Training the Model
 
 To train the model from scratch:
 
@@ -52,7 +52,7 @@ This will:
 models/ai_detector_model.pkl
 models/tfidf_vectorizer.pkl
 
-## 🌐 Running the Gradio App
+## Running the Gradio App
 
 Start the web interface:
 
@@ -65,7 +65,7 @@ This launches a local server where you can paste text and see:
 - Final predicted label  
 - Confidence score  
 
-## 🔍 Notebook Version (Full EDA)
+## Notebook Version (Full EDA)
 
 Explore the project end-to-end:
 
@@ -80,7 +80,7 @@ It includes:
 - Model training  
 - Feature importance  
 
-## 📦 Requirements
+## Requirements
 
 See `requirements.txt` for all dependencies:
 
@@ -92,13 +92,13 @@ matplotlib
 seaborn
 gradio
 
-## 📜 License
+## License
 
 MIT
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to submit pull requests or open issues.
 
